@@ -1,10 +1,5 @@
 //═══════════════════════════════════════════════════════//
-//If you want to recode, reupload
-//or copy the codes/script,
-//pls give credit
-//no credit? i will take action immediately
-//© 2022 Xeon Bot Inc. Doge Bot 
-//Thank you to Lord Buddha, Family and Myself
+//TALHA and arisha
 //════════════════════════════//
 
 const fs = require('fs')
@@ -21,20 +16,20 @@ global.APIKeys = {
 }
 
 //customize settings\\
-global.owner = ['918590451659']
-global.premium = ['918590451659']
-global.ownernomer = '918590451659'
-global.ownername = '🦄Dream Guy iiuzi'
-global.botname = 'Minx Bot MD V1'
+global.owner = ['923072291944']
+global.premium = ['923072291944']
+global.ownernomer = '923072291944'
+global.ownername = '🇸🇦Talha'
+global.botname = 'team '
 global.footer = 'iiuzi Bot Inc.'
-global.ig = 'https://github.com/iiuzi-0x'
-global.region = 'India, kerala ,mlp'
-global.sc = 'https://github.com/iiuzi-0x/Minx-MD'
-global.myweb = 'https://youtu.be/kb1cGKUo-Jg'
-global.packname = 'Minx Bot'
-global.author = '🦄Dream Guy iiuzi'
+global.ig = 'https://Instagram.com/talhakayani277'
+global.region = 'Pakistan, Sindh, Karachi'
+global.sc = 'https://Instagram.com/talhakayani277'
+global.myweb = 'https://Instagram.com/talhakayani277'
+global.packname = '┼☪⚔♱☻☹♞♯.ṬḀḶḨẢ.♯♞☹☻♱⚔☪┼'
+global.author = 'TALHA official'
 global.sessionName = 'session'
-global.prefa = ['','!','.','🐦','🐤','🗿']
+global.prefa =  ['','!','.','🐦','🐤','🗿']
 global.sp = '⭔'
 global.mess = {
     success: 'Done ✓',
