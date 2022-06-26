@@ -10,9 +10,9 @@ global.APIs = {
 	zenz: 'https://zenzapis.xyz',
 }
 
-//Api Key\\
+//c719318f84\\
 global.APIKeys = {
-	'https://zenzapis.xyz': 'sanzychan01', //credit goes to sanzy yt, if api key expire, buy it and put it here?\\
+	'https://zenzapis.xyz': 'c719318f84', //credit goes to sanzy yt, if api key expire, buy it and put it here?\\
 }
 
 //customize settings\\
