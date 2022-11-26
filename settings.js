@@ -16,18 +16,20 @@ global.APIKeys = {
 }
 
 //customize settings\\
-global.owner = ['923072291944']
-global.premium = ['923072291944']
-global.ownernomer = '923072291944'
-global.ownername = '🇸🇦Talha'
-global.botname = 'team '
-global.footer = 'iiuzi Bot Inc.'
-global.ig = 'https://Instagram.com/talhakayani277'
-global.region = 'Pakistan, Sindh, Karachi'
-global.sc = 'https://Instagram.com/talhakayani277'
-global.myweb = 'https://Instagram.com/talhakayani277'
-global.packname = '┼☪⚔♱☻☹♞♯.ṬḀḶḨẢ.♯♞☹☻♱⚔☪┼'
-global.author = 'TALHA official'
+global.owner = ['919536476115']
+global.premium = ['919536476115']
+global.ownernomer = '919536476115'
+global.ownername = 'CHIRAG YOUTUBER'
+global.botname = 'DEVIL BOT'
+global.footer = '𝑩𝑶𝑻 𝑩𝒀 𝑪𝑯𝑰𝑹𝑨𝑮 𝒀𝑶𝑼𝑻𝑼𝑩𝑬𝑹 
+𝑫𝑶 𝑵𝑶𝑻 𝑭𝑶𝑹𝑮𝑬𝑻 𝑻𝑶 𝑺𝑼𝑩𝑺𝑪𝑹𝑰𝑩𝑬 🌈❤️ 
+youtube.com/c/chiragyoutuber'
+global.ig = 'https://Instagram.com/chirag__bhatnagar'
+global.region = 'UTTRAKHAND,INDIA'
+global.sc = 'https://youtube.com/c/chiragyoutuber'
+global.myweb = 'https://Instagram.com/chirag__bhatnagar'
+global.packname = '┼☪⚔♱☻☹♞♯.𝐃𝐄𝐕𝐈𝐋 𝐁𝐎𝐓.♯♞☹☻♱⚔☪┼'
+global.author = '𝐂𝐇𝐈𝐑𝐀𝐆 𝐘𝐎𝐔𝐓𝐔𝐁𝐄𝐑'
 global.sessionName = 'session'
 global.prefa =  ['','!','.','🐦','🐤','🗿']
 global.sp = '⭔'
